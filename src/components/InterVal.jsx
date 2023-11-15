@@ -6,7 +6,7 @@ function InterVal() {
         console.log('Delayed action executed!');
     };
 
-    UseTimeout(handleDelayedAction, 8000);
+    UseTimeout(handleDelayedAction, 2000);
     return (
         <div>interVal</div>
     )

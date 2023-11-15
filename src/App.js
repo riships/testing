@@ -1,8 +1,10 @@
-import InterVal from "./components/InterVal";
+import ExampleUsePre from "./components/ExampleUsePre";
+// import InterVal from "./components/InterVal";
 function App() {
   return (
     <div className="App">
-      <InterVal />
+      <h1>Store the Previous value</h1>
+      <ExampleUsePre />
     </div>
   );
 }

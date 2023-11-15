@@ -1,9 +1,8 @@
-import Callback from "./components/Callback";
-
+import InterVal from "./components/InterVal";
 function App() {
   return (
     <div className="App">
-      <Callback />
+      <InterVal />
     </div>
   );
 }
